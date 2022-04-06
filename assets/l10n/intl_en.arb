@@ -1,0 +1,36 @@
+{
+    "app_title": "Test App",
+    "login_field" : "email/nickname",
+    "password_field" : "password",
+    "login_hello" : "Hello there!",
+    "log_in": "Log in",
+    "sign_up": "Sign up",
+    "new_here": "New here?",
+    "signup_hello": "Welcome!",
+    "already_have_account": "Already have an account?",
+    "error_incorrect_login": "Incorrect login",
+    "error_incorrect_pass": "Incorrect password",
+    "wow" : "Wow!",
+    "thanks_for_joining" : "Thanks for joining us!!!",
+    "u_can_login": "You can now log in and start using the app, *.",
+    "post_details": "Post Details",
+    "user_details": "User Details",
+    "name": "Name",
+    "last_name": "Last Name",
+    "email": "Email",
+    "age": "Age",
+    "gender": "Gender",
+    "phone": "Phone",
+    "website": "Website",
+    "latest_posts": "Latest posts",
+    "drawer_title": "Hello!!!",
+    "log_out": "Log Out",
+    "do_something": "Do Something",
+    "doing_something": "Doing Something"
+
+
+
+
+
+
+}
